@@ -10,5 +10,3 @@ This is a template for practicing code reviews. Please use this template as foll
 ## Spot the Issues
 
 Reviewing code can be difficult. You can use the following list to help you understand what to look for when reading code:
-
-test
