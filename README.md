@@ -1,11 +1,19 @@
-# How to Code Review
+# New Next Project
 
-This is a template for practicing code reviews. Please use this template as follows:
-1. Press the `use this template` button to create a copy of this repository. 
-2. Don't forget to tick the checkbox for including all branches. 
-3. Create a Pull Request for the `feature/product-list` branch.
-4. Start your code review!
+### Local Development
 
-## Spot the Issues
+To work locally, please install the dependencies using `npm i` first.
 
-Reviewing code can be difficult. You can use the following list to help you understand what to look for when reading code:
+Run `npm run dev` to start a development server and open the displayed URL in a browser.
+
+Use `npm run test` to run the tests.
+
+### Scripts
+
+You can use the following commands:
+
+- `npm run dev` to start a development server
+- `npm run build` to build the project
+- `npm run start` to start a production server
+- `npm run test` to run the tests
+- `npm run lint` to run the linter
